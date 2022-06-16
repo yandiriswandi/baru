@@ -1,0 +1,13 @@
+.thumbnail {
+  width: 200px;
+  height: 270px;
+}
+
+.author {
+  font-style: italic;
+  color: #929292;
+}
+
+.price {
+  color: #974A4A;
+}
